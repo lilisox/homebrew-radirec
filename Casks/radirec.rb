@@ -8,4 +8,5 @@ cask "radirec" do
   homepage "https://dogaradi.123net.jp/dl-radirec-mac/"
 
   pkg "RadiRec.pkg"
+  
 end
