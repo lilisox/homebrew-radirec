@@ -1,6 +1,6 @@
 cask "radirec" do
-  version "1.0.10"
-  sha256 "736062ed4539d0bc8c42e8cfdf950e22e3fa95486fd9dc53ff66956b9d5eb1f4"
+  version "1.1.0"
+  sha256 "b6faab1d7d475a585e6a537b2ff24f66a264ef51c08d653573d4cdf2b736b9b1"
 
   url "https://dogaraag.temporarydomain.net/download/installer/radirec/mac/RadiRec.pkg"
   name "radirec"
